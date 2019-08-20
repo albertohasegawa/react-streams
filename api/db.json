@@ -4,6 +4,12 @@
       "title": "My streams",
       "description": "This is my stream",
       "id": 1
+    },
+    {
+      "title": "I created this stream",
+      "description": "This was made by me",
+      "userId": "105839334174959783193",
+      "id": 2
     }
   ]
 }
